@@ -1,6 +1,10 @@
 # :robot: Fill forms with Selenium and Python
 
+### What is Selenium?
+
 Selenium is a free (open-source) automated testing framework used to validate web applications across different browsers and platforms.
+
+### About this project
 
 The project aims to study Selenium test tool and its use with Python for form filling.
 
@@ -16,7 +20,7 @@ To execute this project you will need:
 - Selenium and Driver ([installation instructions](https://selenium-python.readthedocs.io/installation.html) - [driver repository](https://github.com/mozilla/geckodriver/releases))
 - Openpyxl ([installation instructions](https://openpyxl.readthedocs.io/en/stable/))
 
-#### Problem with PATH
+### Problem with PATH
 
 I have one problem during the execution of my script and was because the Driver needed to be in PATH.
 
