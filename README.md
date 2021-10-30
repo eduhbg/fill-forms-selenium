@@ -34,4 +34,4 @@ Just run the script `app.py` and see the result.
 
 ## Result
 
-![Result of the project](https://github.com/eduhbg/fill-forms-selenium/blob/main/img/selenium.gif)
+![Result of the project](img/selenium.gif)
