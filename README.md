@@ -1,4 +1,4 @@
-# Fill forms with Selenium and Python
+# :robot: Fill forms with Selenium and Python
 
 Selenium is a free (open-source) automated testing framework used to validate web applications across different browsers and platforms.
 
