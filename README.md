@@ -1,4 +1,4 @@
-# Fill forms with Selenium and Python
+# Fill forms with Selenium
 
 ## Overview
 
